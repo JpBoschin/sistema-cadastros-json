@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nome": "João pedro",
+        "email": "jotaboschin@gmail.com",
+        "tipo": "Cliente"
+    },
+    {
+        "id": 2,
+        "nome": "João pedro Silva Boschin",
+        "email": "jtoopkilokndoik@gmail.com",
+        "tipo": "Restaurante"
+    }
+]
